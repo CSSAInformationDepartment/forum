@@ -1,11 +1,10 @@
 # Laravel PHP Forum created by unimelb students
 
-[![Build Status](passsing)
-[![Total Downloads](20M)
-[![Latest Stable Version](v1.0)
-[![Latest Unstable Version](1.0-dev)
-[![License](MIT)
-
+[![Build Status](https://travis-ci.org/laravel/framework.svg)
+[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)
+[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/license.svg)
+[![License](https://poser.pugx.org/laravel/framework/license.svg)
 
 ## Official Documentation
 
