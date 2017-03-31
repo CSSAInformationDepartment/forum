@@ -9,7 +9,7 @@
     @include('includes.message-block')
     <div class="row">
       <div class="col-md-6">
-        <h3>Sign Up</h3>
+        <h3>Home page test</h3>
         <form action="{{ route('signup')}}" method="post">
           <div class="form-group {{ $errors->has('email')? 'has-error': ''}}">
             <label for="email">Your E-Mail</label>
