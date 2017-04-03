@@ -58,9 +58,9 @@
           <div class="col-md-7">
             <img src="img/sunrise-2.png" class="logo">
             <h1>全新的论坛社区, 致力于服务墨尔本地区留学生</h1>
-            <h3>论坛即将开发关, 敬请期待~</h3>
+            <h3>论坛即将开放, 敬请期待~</h3>
             <h4>20<sup>th</sup> to 22<sup>nd</sup>  October, 2017</h4>
-            <a href="#" class="btn btn-lg btn-red">点击进入论坛<span class="ti-arrow-right"></span></a>
+            <a href="/forum" class="btn btn-lg btn-red">点击进入论坛<span class="ti-arrow-right"></span></a>
 
           </div>
           <div class="col-md-5 hidden-xs">

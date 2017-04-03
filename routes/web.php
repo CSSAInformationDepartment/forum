@@ -15,6 +15,10 @@ Route::get('/', function () {
     return view('index');
 }) -> name('index');
 
+Route::get('/forum', function () {
+    return view('forum');
+}) -> name('forum');
+
 Route::post('/signup', [
   'uses' => 'UserController@postSignUp',
   'as' => 'signup'
